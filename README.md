@@ -1,7 +1,11 @@
 Name: Ibrar Ali
+
 RegI’d:54199
+
 Course: Artificial Intelligence Lab 
+
 Instructor name: Sir USAMA AMJAD 
+
 Project Name: Spam-email-Detection using Python
 
 Google Colab file Link  : https://colab.research.google.com/drive/1NcJ6x0_oc473gnPtAPZ0-TPubxAN30sV?usp=sharing 
